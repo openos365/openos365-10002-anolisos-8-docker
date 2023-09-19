@@ -41,6 +41,7 @@ dnf --assumeyes install sudo
 dnf --assumeyes update
 dnf --assumeyes install qemu-img
 dnf --assumeyes install dosfstools
+dnf --assumeyes groupinstall "Development Tools"
 
 cd ~
 if [ -d versions ];then
