@@ -6,7 +6,7 @@ anolis-compat-release.noarch                8.6-1.an8                           
 anolis-gpg-keys.noarch                      8.8-2.an8                                      @System   
 anolis-release.x86_64                       8.8-2.an8                                      @System   
 anolis-repos.x86_64                         8.8-2.an8                                      @System   
-appx-util.x86_64                            0.4-2.el8                                      @epel     
+appx-util.x86_64                            0.5-2.el8                                      @epel     
 asciidoc.noarch                             9.1.0-3.an8                                    @AppStream
 atk.x86_64                                  2.36.0-5.0.1.an8                               @AppStream
 audit-libs.x86_64                           3.0.7-4.0.1.an8                                @BaseOS   
