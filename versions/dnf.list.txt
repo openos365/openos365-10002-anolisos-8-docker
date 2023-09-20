@@ -8,7 +8,7 @@ anolis-compat-release.noarch                                      8.6-1.an8     
 anolis-gpg-keys.noarch                                            8.8-2.an8                                                   @System   
 anolis-release.x86_64                                             8.8-2.an8                                                   @System   
 anolis-repos.x86_64                                               8.8-2.an8                                                   @System   
-appx-util.x86_64                                                  0.5-2.el8                                                   @epel     
+appx-util.x86_64                                                  0.4-2.el8                                                   @epel     
 asciidoc.noarch                                                   9.1.0-3.an8                                                 @AppStream
 atk.x86_64                                                        2.36.0-5.0.1.an8                                            @AppStream
 audit-libs.x86_64                                                 3.0.7-4.0.1.an8                                             @BaseOS   
@@ -2571,7 +2571,7 @@ dieharder-libs.x86_64                                             3.31.1-25.el8 
 diff-pdf.x86_64                                                   0.5-1.el8                                                   epel      
 diffmark.x86_64                                                   0.10-20.el8                                                 epel      
 diffmark-devel.x86_64                                             0.10-20.el8                                                 epel      
-difftastic.x86_64                                                 0.51.1-1.el8                                                epel      
+difftastic.x86_64                                                 0.50.0-1.el8                                                epel      
 diffutils-doc.noarch                                              3.6-6.0.1.an8                                               PowerTools
 digikam.x86_64                                                    7.8.0-1.el8                                                 epel      
 digikam-devel.x86_64                                              7.8.0-1.el8                                                 epel      
@@ -5592,10 +5592,10 @@ ibus-wayland.x86_64                                               1.5.19-14.0.1.
 icedax.x86_64                                                     1.1.11-39.el8                                               AppStream 
 icedtea-web.x86_64                                                1.8.4-4.0.1.an8                                             AppStream 
 icedtea-web-javadoc.noarch                                        1.8.4-4.0.1.an8                                             AppStream 
-icewm.x86_64                                                      3.4.2-2.el8                                                 epel      
-icewm-data.noarch                                                 3.4.2-2.el8                                                 epel      
-icewm-minimal-session.noarch                                      3.4.2-2.el8                                                 epel      
-icewm-themes.noarch                                               3.4.2-2.el8                                                 epel      
+icewm.x86_64                                                      3.4.1-2.el8                                                 epel      
+icewm-data.noarch                                                 3.4.1-2.el8                                                 epel      
+icewm-minimal-session.noarch                                      3.4.1-2.el8                                                 epel      
+icewm-themes.noarch                                               3.4.1-2.el8                                                 epel      
 icon.x86_64                                                       9.5.20i-1.el8                                               epel      
 icon-naming-utils.noarch                                          0.8.90-25.el8                                               epel      
 icon-utils.x86_64                                                 9.5.20i-1.el8                                               epel      
@@ -10243,7 +10243,7 @@ openscap-devel.x86_64                                             1.3.7-1.0.1.an
 openscap-engine-sce.x86_64                                        1.3.7-1.0.1.an8                                             AppStream 
 openscap-engine-sce-devel.x86_64                                  1.3.7-1.0.1.an8                                             AppStream 
 openscap-python3.x86_64                                           1.3.7-1.0.1.an8                                             AppStream 
-openscap-report.noarch                                            0.2.5-1.el8                                                 epel      
+openscap-report.noarch                                            0.2.4-1.el8                                                 epel      
 openscap-scanner.x86_64                                           1.3.7-1.0.1.an8                                             AppStream 
 openscap-utils.x86_64                                             1.3.7-1.0.1.an8                                             AppStream 
 openslide.x86_64                                                  3.4.1-17.el8                                                epel      
