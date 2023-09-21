@@ -9370,10 +9370,9 @@ mle.x86_64                                                        1.5.0-1.el8   
 mlmmj.x86_64                                                      1.3.0-7.el8                                                 epel      
 mlocate.x86_64                                                    0.26-20.0.1.an8                                             BaseOS    
 mlocate-doc.noarch                                                0.26-20.0.1.an8                                             PowerTools
-mlpack-bin.x86_64                                                 4.2.1-1.el8                                                 epel      
-mlpack-devel.x86_64                                               4.2.1-1.el8                                                 epel      
-mlpack-licenses.x86_64                                            4.2.1-1.el8                                                 epel      
-mlpack-python3.x86_64                                             4.2.1-1.el8                                                 epel      
+mlpack-bin.x86_64                                                 4.0.1-1.el8                                                 epel      
+mlpack-devel.x86_64                                               4.0.1-1.el8                                                 epel      
+mlpack-licenses.x86_64                                            4.0.1-1.el8                                                 epel      
 mlt.x86_64                                                        6.24.0-4.el8                                                epel      
 mlt-devel.x86_64                                                  6.24.0-4.el8                                                epel      
 mlt-php.x86_64                                                    6.24.0-4.el8                                                epel      
@@ -15053,8 +15052,8 @@ rubygem-abrt.noarch                                               0.3.0-4.module
 rubygem-abrt-doc.noarch                                           0.3.0-4.module+an8.7.0+10870+bafb2688                       AppStream 
 rubygem-addressable.noarch                                        2.8.1-3.el8                                                 epel      
 rubygem-addressable-doc.noarch                                    2.8.1-3.el8                                                 epel      
-rubygem-aruba.noarch                                              0.14.14-1.el8.2                                             epel      
-rubygem-aruba-doc.noarch                                          0.14.14-1.el8.2                                             epel      
+rubygem-aruba.noarch                                              0.14.14-1.el8.1                                             epel      
+rubygem-aruba-doc.noarch                                          0.14.14-1.el8.1                                             epel      
 rubygem-asciidoctor.noarch                                        2.0.15-3.el8                                                epel      
 rubygem-asciidoctor-doc.noarch                                    2.0.15-3.el8                                                epel      
 rubygem-bigdecimal.x86_64                                         1.3.4-110.0.1.module+an8.7.0+10870+bafb2688                 AppStream 
