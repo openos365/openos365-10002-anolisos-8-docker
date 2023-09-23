@@ -1,0 +1,9 @@
+# dist macros.
+
+%anolis_ver 8
+%anolis     8
+%anolis8 1
+%dist .an8
+# For compatibility
+%rhel 8
+%el8 1

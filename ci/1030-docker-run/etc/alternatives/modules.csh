@@ -1,0 +1,1 @@
+/usr/share/Modules/init/profile.csh
