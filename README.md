@@ -39,6 +39,7 @@ podman run -it docker.io/openos365/openos365-10002-anolisos-8-docker-main-root:l
 
 sudo podman run -it \
 --cap-add=ALL \
+--privileged=true \
 --tmpfs /tmp \
 --tmpfs /run \
 -v /etc/resolv.conf:/etc/resolv.conf \
