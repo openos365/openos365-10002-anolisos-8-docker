@@ -74,7 +74,7 @@ dhcp-common.noarch                          12:4.3.6-49.0.1.an8                 
 dhcp-libs.x86_64                            12:4.3.6-49.0.1.an8                            @BaseOS   
 diffstat.x86_64                             1.64-6.an8                                     @AppStream
 diffutils.x86_64                            3.6-6.0.1.an8                                  @BaseOS   
-distribution-gpg-keys.noarch                1.92-1.el8                                     @epel     
+distribution-gpg-keys.noarch                1.97-1.el8                                     @epel     
 dnf.noarch                                  4.7.0-16.0.1.an8                               @BaseOS   
 dnf-data.noarch                             4.7.0-16.0.1.an8                               @BaseOS   
 dnf-plugins-core.noarch                     4.0.21-19.an8                                  @BaseOS   
