@@ -15628,8 +15628,8 @@ solaar-doc.noarch                                                 1.1.1-1.el8   
 solaar-udev.noarch                                                1.1.1-1.el8                                                       epel      
 sombok.x86_64                                                     2.4.0-7.an8                                                       AppStream 
 sombok-devel.x86_64                                               2.4.0-7.an8                                                       AppStream 
-sos.noarch                                                        4.5.6-1.0.1.an8                                                   BaseOS    
-sos-audit.noarch                                                  4.5.6-1.0.1.an8                                                   BaseOS    
+sos.noarch                                                        4.6.0-2.0.1.an8                                                   BaseOS    
+sos-audit.noarch                                                  4.6.0-2.0.1.an8                                                   BaseOS    
 sos-collector.noarch                                              1.8-2.el8                                                         AppStream 
 sound-theme-freedesktop.noarch                                    0.8-9.0.1.an8                                                     AppStream 
 sound-theme-freedesktop-doc.noarch                                0.8-9.0.1.an8                                                     PowerTools
