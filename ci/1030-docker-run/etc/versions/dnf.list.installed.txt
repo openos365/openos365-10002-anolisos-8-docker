@@ -347,7 +347,7 @@ lua-libs.x86_64                             5.3.4-12.0.2.an8                    
 lua-posix.x86_64                            35.0-8.an8                                     @AppStream
 lvm2.x86_64                                 8:2.03.14-9.0.1.an8                            @BaseOS   
 lvm2-libs.x86_64                            8:2.03.14-9.0.1.an8                            @BaseOS   
-lz4-libs.x86_64                             1.8.3-3.an8                                    @System   
+lz4-libs.x86_64                             1.9.4-1.an8                                    @BaseOS   
 lzo.x86_64                                  2.08-14.el8                                    @System   
 m4.x86_64                                   1.4.18-7.0.1.an8                               @BaseOS   
 make.x86_64                                 1:4.2.1-11.0.1.an8                             @BaseOS   
@@ -674,9 +674,9 @@ xml-common.noarch                           0.6.3-50.0.1.an8                    
 xorg-x11-font-utils.x86_64                  1:7.5-41.0.2.an8                               @AppStream
 xorg-x11-fonts-ISO8859-1-100dpi.noarch      7.5-19.el8                                     @AppStream
 xorriso.x86_64                              1.5.4-4.an8                                    @AppStream
-xz.x86_64                                   5.2.4-4.an8_6                                  @System   
-xz-devel.x86_64                             5.2.4-4.an8_6                                  @BaseOS   
-xz-libs.x86_64                              5.2.4-4.an8_6                                  @System   
+xz.x86_64                                   5.4.4-2.an8                                    @BaseOS   
+xz-devel.x86_64                             5.4.4-2.an8                                    @BaseOS   
+xz-libs.x86_64                              5.4.4-2.an8                                    @BaseOS   
 yum.noarch                                  4.7.0-16.0.1.an8                               @BaseOS   
 zip.x86_64                                  3.0-23.0.1.an8                                 @BaseOS   
 zlib.x86_64                                 1.2.11-19.0.1.an8_6                            @System   
