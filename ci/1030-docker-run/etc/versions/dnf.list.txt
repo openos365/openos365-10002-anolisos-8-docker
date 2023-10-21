@@ -76,7 +76,7 @@ dhcp-common.noarch                                                12:4.3.6-49.0.
 dhcp-libs.x86_64                                                  12:4.3.6-49.0.1.an8                                               @BaseOS   
 diffstat.x86_64                                                   1.64-6.an8                                                        @AppStream
 diffutils.x86_64                                                  3.6-6.0.1.an8                                                     @BaseOS   
-distribution-gpg-keys.noarch                                      1.97-1.el8                                                        @epel     
+distribution-gpg-keys.noarch                                      1.98-1.el8                                                        @epel     
 dnf.noarch                                                        4.7.0-16.0.1.an8                                                  @BaseOS   
 dnf-data.noarch                                                   4.7.0-16.0.1.an8                                                  @BaseOS   
 dnf-plugins-core.noarch                                           4.0.21-19.an8                                                     @BaseOS   
@@ -2027,10 +2027,10 @@ cheese.x86_64                                                     2:3.38.0-6.0.1
 cheese-doc.noarch                                                 2:3.38.0-6.0.1.an8                                                PowerTools
 cheese-libs.x86_64                                                2:3.38.0-6.0.1.an8                                                AppStream 
 chrome-gnome-shell.x86_64                                         10.1-7.an8                                                        AppStream 
-chromedriver.x86_64                                               117.0.5938.132-1.el8                                              epel      
-chromium.x86_64                                                   117.0.5938.132-1.el8                                              epel      
-chromium-common.x86_64                                            117.0.5938.132-1.el8                                              epel      
-chromium-headless.x86_64                                          117.0.5938.132-1.el8                                              epel      
+chromedriver.x86_64                                               118.0.5993.70-1.el8                                               epel      
+chromium.x86_64                                                   118.0.5993.70-1.el8                                               epel      
+chromium-common.x86_64                                            118.0.5993.70-1.el8                                               epel      
+chromium-headless.x86_64                                          118.0.5993.70-1.el8                                               epel      
 chrony.x86_64                                                     4.2-1.0.1.an8                                                     BaseOS    
 chrpath.x86_64                                                    0.16-7.0.1.an8                                                    BaseOS    
 chrpath-doc.noarch                                                0.16-7.0.1.an8                                                    PowerTools
@@ -2602,7 +2602,7 @@ dist-git-selinux.noarch                                           1.16-3.el8    
 distcc.x86_64                                                     3.3.3-3.el8                                                       epel      
 distcc-server.x86_64                                              3.3.3-3.el8                                                       epel      
 distgen.noarch                                                    1.17-1.el8                                                        epel      
-distribution-gpg-keys-copr.noarch                                 1.97-1.el8                                                        epel      
+distribution-gpg-keys-copr.noarch                                 1.98-1.el8                                                        epel      
 distrobox.noarch                                                  1.5.0.2-1.el8                                                     epel      
 djvulibre.x86_64                                                  3.5.28-3.el8                                                      epel      
 djvulibre-devel.x86_64                                            3.5.28-3.el8                                                      epel      
@@ -3176,7 +3176,7 @@ fedfind.noarch                                                    5.0.1-1.el8   
 fedmsg.noarch                                                     1.1.7-1.el8                                                       epel      
 fedmsg-base.noarch                                                1.1.7-1.el8                                                       epel      
 fedmsg-doc.noarch                                                 1.1.7-1.el8                                                       epel      
-fedora-license-data.noarch                                        1.31-1.el8                                                        epel      
+fedora-license-data.noarch                                        1.32-1.el8                                                        epel      
 fedora-messaging.noarch                                           3.0.0-1.el8                                                       epel      
 fedora-messaging-doc.noarch                                       3.0.0-1.el8                                                       epel      
 fedora-packager.noarch                                            0.6.0.6-1.el8                                                     epel      
@@ -8322,8 +8322,8 @@ librnp-devel.x86_64                                               0.17.0-1.el8  
 librpmem.x86_64                                                   1.6.1-1.el8                                                       AppStream 
 librpmem-debug.x86_64                                             1.6.1-1.el8                                                       AppStream 
 librpmem-devel.x86_64                                             1.6.1-1.el8                                                       AppStream 
-librpminspect.x86_64                                              1.11-1.el8                                                        epel      
-librpminspect-devel.x86_64                                        1.11-1.el8                                                        epel      
+librpminspect.x86_64                                              1.12.1-1.el8                                                      epel      
+librpminspect-devel.x86_64                                        1.12.1-1.el8                                                      epel      
 librsvg2-devel.x86_64                                             2.50.7-1.0.2.an8                                                  AppStream 
 librsvg2-tools.x86_64                                             2.50.7-1.0.2.an8                                                  AppStream 
 librsync.x86_64                                                   2.3.4-1.el8                                                       epel      
@@ -15013,10 +15013,10 @@ rpmconf-base.noarch                                               1.1.7-2.el8.1 
 rpmdevtools.noarch                                                8.10-8.0.1.an8                                                    AppStream 
 rpmdistro-repoquery.noarch                                        0^20230819git18ae234-1.el8                                        epel      
 rpmemd.x86_64                                                     1.6.1-1.el8                                                       AppStream 
-rpminspect.x86_64                                                 1.11-1.el8                                                        epel      
+rpminspect.x86_64                                                 1.12.1-1.el8                                                      epel      
 rpminspect-data-centos.noarch                                     1:1.4-1.el8                                                       epel      
 rpminspect-data-fedora.noarch                                     1:1.12-1.el8                                                      epel      
-rpminspect-data-generic.x86_64                                    1.11-1.el8                                                        epel      
+rpminspect-data-generic.x86_64                                    1.12.1-1.el8                                                      epel      
 rpmlint.noarch                                                    1.10-14.0.1.an8                                                   AppStream 
 rpmlint-doc.noarch                                                1.10-14.0.1.an8                                                   PowerTools
 rpmreaper.x86_64                                                  0.2.0-20.el8                                                      epel      
@@ -17363,6 +17363,7 @@ x11vnc.x86_64                                                     0.9.16-3.el8  
 x2goagent.x86_64                                                  4.1.0.3-17.el8.1                                                  epel      
 x2goclient.x86_64                                                 4.1.2.3-1.el8                                                     epel      
 x2godesktopsharing.x86_64                                         3.2.0.0-4.el8                                                     epel      
+x2gokdriveclient.x86_64                                           0.0.0.1-2.el8                                                     epel      
 x2goserver.x86_64                                                 4.1.0.3-17.el8.1                                                  epel      
 x2goserver-common.noarch                                          4.1.0.3-17.el8.1                                                  epel      
 x2goserver-desktopsharing.x86_64                                  4.1.0.3-17.el8.1                                                  epel      
