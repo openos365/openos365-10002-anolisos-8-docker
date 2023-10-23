@@ -1098,7 +1098,7 @@ anope-tre.x86_64                                                  2.0.14-1.el8  
 ansible.noarch                                                    7.2.0-1.el8                                                       epel      
 ansible-collection-ansible-posix.noarch                           1.5.4-1.el8                                                       epel      
 ansible-collection-ansible-utils.noarch                           2.6.1-1.el8                                                       epel      
-ansible-collection-awx-awx.noarch                                 23.2.0-1.el8                                                      epel      
+ansible-collection-awx-awx.noarch                                 23.3.0-1.el8                                                      epel      
 ansible-collection-chocolatey-chocolatey.noarch                   1.4.0-1.el8                                                       epel      
 ansible-collection-community-docker.noarch                        2.6.0-1.el8                                                       epel      
 ansible-collection-community-general.noarch                       7.0.0-1.el8                                                       epel      
@@ -9127,9 +9127,9 @@ mate-menus-devel.x86_64                                           1.26.1-1.el8  
 mate-menus-libs.x86_64                                            1.26.1-1.el8                                                      epel      
 mate-menus-preferences-category-menu.x86_64                       1.26.1-1.el8                                                      epel      
 mate-notification-daemon.x86_64                                   1.26.1-1.el8                                                      epel      
-mate-panel.x86_64                                                 1.26.3-1.el8                                                      epel      
-mate-panel-devel.x86_64                                           1.26.3-1.el8                                                      epel      
-mate-panel-libs.x86_64                                            1.26.3-1.el8                                                      epel      
+mate-panel.x86_64                                                 1.26.3-2.el8                                                      epel      
+mate-panel-devel.x86_64                                           1.26.3-2.el8                                                      epel      
+mate-panel-libs.x86_64                                            1.26.3-2.el8                                                      epel      
 mate-polkit.x86_64                                                1.26.1-1.el8                                                      epel      
 mate-power-manager.x86_64                                         1.26.1-1.el8                                                      epel      
 mate-screensaver.x86_64                                           1.26.2-1.el8                                                      epel      
@@ -16737,6 +16737,7 @@ tog-pegasus.x86_64                                                2:2.14.1-46.0.
 tog-pegasus-devel.x86_64                                          2:2.14.1-46.0.3.an8                                               AppStream 
 tog-pegasus-doc.noarch                                            2:2.14.1-46.0.3.an8                                               PowerTools
 tog-pegasus-libs.x86_64                                           2:2.14.1-46.0.3.an8                                               AppStream 
+toilet.x86_64                                                     0.3-15.el8                                                        epel      
 tokyocabinet.x86_64                                               1.4.48-10.0.1.an8                                                 AppStream 
 tokyocabinet-devel.x86_64                                         1.4.48-10.0.1.an8                                                 AppStream 
 tokyocabinet-devel-doc.noarch                                     1.4.48-10.0.1.an8                                                 PowerTools
@@ -16915,7 +16916,7 @@ umockdev.x86_64                                                   0.15.4-2.0.1.a
 umockdev-doc.noarch                                               0.15.4-2.0.1.an8                                                  PowerTools
 umr.x86_64                                                        1.0.5-1.el8                                                       epel      
 umr-devel.x86_64                                                  1.0.5-1.el8                                                       epel      
-unar.x86_64                                                       1.10.7-1.el8                                                      epel      
+unar.x86_64                                                       1.10.8-1.el8                                                      epel      
 unbound.x86_64                                                    1.16.2-3.an8                                                      AppStream 
 unbound-devel.x86_64                                              1.16.2-3.an8                                                      AppStream 
 uncrustify.x86_64                                                 0.72.0-2.el8                                                      epel      
