@@ -293,7 +293,7 @@ libnet.x86_64                                                     1.2-6.an8     
 libnetfilter_conntrack.x86_64                                     1.0.6-5.el8                                                       @BaseOS   
 libnfnetlink.x86_64                                               1.0.1-13.0.1.an8                                                  @BaseOS   
 libnftnl.x86_64                                                   1.1.5-5.0.1.an8                                                   @BaseOS   
-libnghttp2.x86_64                                                 1.33.0-3.0.1.an8.1                                                @System   
+libnghttp2.x86_64                                                 1.33.0-4.0.1.an8.1                                                @BaseOS   
 libnl3.x86_64                                                     3.7.0-1.an8                                                       @BaseOS   
 libnsl2.x86_64                                                    1.2.0-2.20180605git4a062cf.el8                                    @System   
 libpaper.x86_64                                                   1.1.28-4.an8                                                      @AppStream
@@ -3019,11 +3019,11 @@ execstack.x86_64                                                  0.5.0-15.0.1.a
 exempi.x86_64                                                     2.6.0-0.2.20211007gite23c213.an8                                  AppStream 
 exempi-devel.x86_64                                               2.6.0-0.2.20211007gite23c213.an8                                  AppStream 
 exfatprogs.x86_64                                                 1.2.1-1.el8                                                       epel      
-exim.x86_64                                                       4.96.1-1.el8                                                      epel      
-exim-greylist.x86_64                                              4.96.1-1.el8                                                      epel      
-exim-mon.x86_64                                                   4.96.1-1.el8                                                      epel      
-exim-mysql.x86_64                                                 4.96.1-1.el8                                                      epel      
-exim-pgsql.x86_64                                                 4.96.1-1.el8                                                      epel      
+exim.x86_64                                                       4.96.2-1.el8                                                      epel      
+exim-greylist.x86_64                                              4.96.2-1.el8                                                      epel      
+exim-mon.x86_64                                                   4.96.2-1.el8                                                      epel      
+exim-mysql.x86_64                                                 4.96.2-1.el8                                                      epel      
+exim-pgsql.x86_64                                                 4.96.2-1.el8                                                      epel      
 exiv2.x86_64                                                      0.27.5-2.an8                                                      AppStream 
 exiv2-devel.x86_64                                                0.27.5-2.an8                                                      AppStream 
 exiv2-doc.noarch                                                  0.27.5-2.an8                                                      AppStream 
@@ -7918,7 +7918,7 @@ libnfsidmap.x86_64                                                1:2.3.3-59.0.2
 libnfsidmap-devel.x86_64                                          1:2.3.3-59.0.2.an8                                                AppStream 
 libnftnl-devel.x86_64                                             1.1.5-5.0.1.an8                                                   AppStream 
 libnftnl-doc.noarch                                               1.1.5-5.0.1.an8                                                   PowerTools
-libnghttp2-devel.x86_64                                           1.33.0-3.0.1.an8.1                                                AppStream 
+libnghttp2-devel.x86_64                                           1.33.0-4.0.1.an8.1                                                AppStream 
 libnghttp2-devel-doc.noarch                                       1.33.0-3.0.1.an8.1                                                PowerTools
 libnice.x86_64                                                    0.1.14-7.20180504git34d6044.0.1.an8                               AppStream 
 libnice-devel.x86_64                                              0.1.14-7.20180504git34d6044.0.1.an8                               AppStream 
@@ -9897,7 +9897,7 @@ nfdump-libs.x86_64                                                1.6.24-1.el8  
 nfs-utils.x86_64                                                  1:2.3.3-59.0.2.an8                                                BaseOS    
 nfs4-acl-tools.x86_64                                             0.3.5-3.el8                                                       BaseOS    
 nftables-devel.x86_64                                             1:0.9.3-26.an8                                                    AppStream 
-nghttp2.x86_64                                                    1.33.0-3.0.1.an8.1                                                AppStream 
+nghttp2.x86_64                                                    1.33.0-4.0.1.an8.1                                                AppStream 
 nginx.x86_64                                                      1:1.14.1-9.0.2.module+an8.7.0+10880+b751b443                      AppStream 
 nginx-all-modules.noarch                                          1:1.14.1-9.0.2.module+an8.7.0+10880+b751b443                      AppStream 
 nginx-filesystem.noarch                                           1:1.14.1-9.0.2.module+an8.7.0+10880+b751b443                      AppStream 
@@ -17147,9 +17147,9 @@ vinagre.x86_64                                                    3.22.0-23.0.2.
 vinagre-doc.noarch                                                3.22.0-23.0.2.an8                                                 PowerTools
 vino.x86_64                                                       3.22.0-11.0.1.an8                                                 AppStream 
 vino-doc.noarch                                                   3.22.0-11.0.1.an8                                                 PowerTools
-virglrenderer.x86_64                                              0.8.0-1.20191002git4ac3a04c.el8                                   epel      
-virglrenderer-devel.x86_64                                        0.8.0-1.20191002git4ac3a04c.el8                                   epel      
-virglrenderer-test-server.x86_64                                  0.8.0-1.20191002git4ac3a04c.el8                                   epel      
+virglrenderer.x86_64                                              0.8.2-1.20200212git7d204f39.el8                                   epel      
+virglrenderer-devel.x86_64                                        0.8.2-1.20200212git7d204f39.el8                                   epel      
+virglrenderer-test-server.x86_64                                  0.8.2-1.20200212git7d204f39.el8                                   epel      
 virt-backup.noarch                                                0.2.25-3.el8                                                      epel      
 virt-dib.x86_64                                                   1:1.44.0-9.0.1.module+an8.8.0+11106+f187d0fd                      AppStream 
 virt-install.noarch                                               4.1.0-4.0.1.an8                                                   AppStream 

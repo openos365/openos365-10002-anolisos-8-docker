@@ -291,7 +291,7 @@ libnet.x86_64                               1.2-6.an8                           
 libnetfilter_conntrack.x86_64               1.0.6-5.el8                                    @BaseOS   
 libnfnetlink.x86_64                         1.0.1-13.0.1.an8                               @BaseOS   
 libnftnl.x86_64                             1.1.5-5.0.1.an8                                @BaseOS   
-libnghttp2.x86_64                           1.33.0-3.0.1.an8.1                             @System   
+libnghttp2.x86_64                           1.33.0-4.0.1.an8.1                             @BaseOS   
 libnl3.x86_64                               3.7.0-1.an8                                    @BaseOS   
 libnsl2.x86_64                              1.2.0-2.20180605git4a062cf.el8                 @System   
 libpaper.x86_64                             1.1.28-4.an8                                   @AppStream
