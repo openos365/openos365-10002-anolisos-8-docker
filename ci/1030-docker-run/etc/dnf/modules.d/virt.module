@@ -1,5 +1,0 @@
-[virt]
-name=virt
-stream=an
-profiles=
-state=enabled

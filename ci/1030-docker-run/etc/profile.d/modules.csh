@@ -1,1 +1,0 @@
-/etc/alternatives/modules.csh
