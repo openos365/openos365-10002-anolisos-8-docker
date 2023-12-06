@@ -1563,7 +1563,7 @@ bison-runtime.x86_64                                              3.7.4-5.an8   
 bitcoin-core-desktop.x86_64                                       25.1-1.el8                                                        epel      
 bitcoin-core-devel.x86_64                                         25.1-1.el8                                                        epel      
 bitcoin-core-libs.x86_64                                          25.1-1.el8                                                        epel      
-bitcoin-core-selinux.noarch                                       0-7.20210312giteaa9a04.el8                                        epel      
+bitcoin-core-selinux.noarch                                       0-11.20231127git4505616.el8                                       epel      
 bitcoin-core-server.x86_64                                        25.1-1.el8                                                        epel      
 bitcoin-core-utils.x86_64                                         25.1-1.el8                                                        epel      
 bitlbee.x86_64                                                    3.6-11.el8                                                        epel      
@@ -2765,7 +2765,7 @@ drbd-udev.x86_64                                                  9.26.0-1.el8  
 drbd-utils.x86_64                                                 9.26.0-1.el8                                                      epel      
 drbd-xen.x86_64                                                   9.26.0-1.el8                                                      epel      
 drbdlinks.noarch                                                  1.29-1.el8                                                        epel      
-drgn.x86_64                                                       0.0.24-1.el8                                                      epel      
+drgn.x86_64                                                       0.0.25-1.el8                                                      epel      
 driverctl.noarch                                                  0.111-1.0.1.an8                                                   AppStream 
 driverctl-doc.noarch                                              0.111-1.0.1.an8                                                   PowerTools
 dropbear.x86_64                                                   2019.78-5.el8                                                     epel      
@@ -3303,7 +3303,7 @@ firebird-devel.x86_64                                             4.0.0.2496-2.e
 firebird-doc.noarch                                               4.0.0.2496-2.el8                                                  epel      
 firebird-examples.noarch                                          4.0.0.2496-2.el8                                                  epel      
 firebird-utils.x86_64                                             4.0.0.2496-2.el8                                                  epel      
-firefox.x86_64                                                    115.4.0-1.0.1.an8                                                 AppStream 
+firefox.x86_64                                                    115.5.0-1.0.1.an8                                                 AppStream 
 firejail.x86_64                                                   0.9.72-1.el8                                                      epel      
 firewall-applet.noarch                                            0.9.11-1.0.1.an8                                                  AppStream 
 firewall-config.noarch                                            0.9.11-1.0.1.an8                                                  AppStream 
@@ -16722,7 +16722,7 @@ thrift-qt.x86_64                                                  0.13.0-2.el8  
 thttpd.x86_64                                                     2.29-4.el8                                                        epel      
 thunar-archive-plugin.x86_64                                      0.4.0-26.el8                                                      epel      
 thunar-volman.x86_64                                              4.16.0-3.el8                                                      epel      
-thunderbird.x86_64                                                115.4.1-1.0.1.an8                                                 AppStream 
+thunderbird.x86_64                                                115.5.0-1.0.1.an8                                                 AppStream 
 tibetan-machine-uni-fonts.noarch                                  1.901-20.0.1.an8                                                  AppStream 
 tibetan-machine-uni-fonts-doc.noarch                              1.901-20.0.1.an8                                                  PowerTools
 tidy.x86_64                                                       5.6.0-5.el8                                                       epel      
