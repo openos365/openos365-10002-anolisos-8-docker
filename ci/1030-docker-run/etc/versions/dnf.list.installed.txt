@@ -270,7 +270,7 @@ libgcc.x86_64                               8.5.0-18.0.4.an8                    
 libgcrypt.x86_64                            1.8.5-7.0.1.an8_6                              @System   
 libgomp.x86_64                              8.5.0-18.0.4.an8                               @BaseOS   
 libgpg-error.x86_64                         1.42-5.0.1.an8                                 @System   
-libgs.x86_64                                9.54.0-11.an8                                  @AppStream
+libgs.x86_64                                9.54.0-14.an8                                  @AppStream
 libibverbs.x86_64                           44.0-2.0.1.an8.1                               @BaseOS   
 libicu.x86_64                               60.3-2.0.2.an8                                 @BaseOS   
 libidn2.x86_64                              2.2.0-1.0.1.an8                                @System   
