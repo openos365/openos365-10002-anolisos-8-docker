@@ -2034,10 +2034,10 @@ cheese.x86_64                                                     2:3.38.0-6.0.1
 cheese-doc.noarch                                                 2:3.38.0-6.0.1.an8                                                PowerTools
 cheese-libs.x86_64                                                2:3.38.0-6.0.1.an8                                                AppStream 
 chrome-gnome-shell.x86_64                                         10.1-7.an8                                                        AppStream 
-chromedriver.x86_64                                               120.0.6099.109-1.el8                                              epel      
-chromium.x86_64                                                   120.0.6099.109-1.el8                                              epel      
-chromium-common.x86_64                                            120.0.6099.109-1.el8                                              epel      
-chromium-headless.x86_64                                          120.0.6099.109-1.el8                                              epel      
+chromedriver.x86_64                                               120.0.6099.129-1.el8                                              epel      
+chromium.x86_64                                                   120.0.6099.129-1.el8                                              epel      
+chromium-common.x86_64                                            120.0.6099.129-1.el8                                              epel      
+chromium-headless.x86_64                                          120.0.6099.129-1.el8                                              epel      
 chrony.x86_64                                                     4.2-1.0.1.an8                                                     BaseOS    
 chrpath.x86_64                                                    0.16-7.0.1.an8                                                    BaseOS    
 chrpath-doc.noarch                                                0.16-7.0.1.an8                                                    PowerTools
