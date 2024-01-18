@@ -74,7 +74,7 @@ dhcp-common.noarch                          12:4.3.6-49.0.1.an8                 
 dhcp-libs.x86_64                            12:4.3.6-49.0.1.an8                            @BaseOS   
 diffstat.x86_64                             1.64-6.an8                                     @AppStream
 diffutils.x86_64                            3.6-6.0.1.an8                                  @BaseOS   
-distribution-gpg-keys.noarch                1.99-1.el8                                     @epel     
+distribution-gpg-keys.noarch                1.100-1.el8                                    @epel     
 dnf.noarch                                  4.7.0-16.0.1.an8                               @BaseOS   
 dnf-data.noarch                             4.7.0-16.0.1.an8                               @BaseOS   
 dnf-plugins-core.noarch                     4.0.21-19.an8                                  @BaseOS   
@@ -375,8 +375,8 @@ ocaml-srpm-macros.noarch                    5-4.el8                             
 openblas-srpm-macros.noarch                 2-2.0.1.an8                                    @AppStream
 openjpeg2.x86_64                            2.4.0-5.an8                                    @AppStream
 openldap.x86_64                             2.4.46-18.an8                                  @System   
-openssh.x86_64                              8.0p1-19.0.1.an8                               @BaseOS   
-openssh-clients.x86_64                      8.0p1-19.0.1.an8                               @BaseOS   
+openssh.x86_64                              8.0p1-20.0.1.an8                               @BaseOS   
+openssh-clients.x86_64                      8.0p1-20.0.1.an8                               @BaseOS   
 openssl.x86_64                              1:1.1.1k-9.0.1.an8                             @BaseOS   
 openssl-libs.x86_64                         1:1.1.1k-9.0.1.an8                             @BaseOS   
 openssl-pkcs11.x86_64                       0.4.10-3.0.1.an8                               @BaseOS   
