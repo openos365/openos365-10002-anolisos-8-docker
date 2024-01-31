@@ -2594,7 +2594,7 @@ dieharder-libs.x86_64                                             3.31.1-25.el8 
 diff-pdf.x86_64                                                   0.5-1.el8                                                         epel      
 diffmark.x86_64                                                   0.10-20.el8                                                       epel      
 diffmark-devel.x86_64                                             0.10-20.el8                                                       epel      
-difftastic.x86_64                                                 0.53.1-1.el8                                                      epel      
+difftastic.x86_64                                                 0.54.0-1.el8                                                      epel      
 diffutils-doc.noarch                                              3.6-6.0.1.an8                                                     PowerTools
 digikam.x86_64                                                    7.8.0-1.el8                                                       epel      
 digikam-devel.x86_64                                              7.8.0-1.el8                                                       epel      
@@ -12526,7 +12526,7 @@ protobuf-devel.x86_64                                             3.5.0-15.an8  
 protobuf-lite.x86_64                                              3.5.0-15.an8                                                      AppStream 
 protobuf-lite-devel.x86_64                                        3.5.0-15.an8                                                      AppStream 
 protonvpn-cli.noarch                                              2.2.11-7.el8                                                      epel      
-proxychains-ng.x86_64                                             4.16-1.el8                                                        epel      
+proxychains-ng.x86_64                                             4.17-1.el8                                                        epel      
 proxysql.x86_64                                                   2.0.9-4.el8                                                       epel      
 proxytunnel.x86_64                                                1.10.20200907-1.el8                                               epel      
 prunerepo.noarch                                                  1.25-1.el8                                                        epel      
@@ -12646,7 +12646,7 @@ python-breathe-doc.noarch                                         4.11.1-2.el8  
 python-bugzilla-cli.noarch                                        3.2.0-1.el8                                                       epel      
 python-calcephpy-doc.noarch                                       3.5.4-1.el8                                                       epel      
 python-capturer-doc.noarch                                        2.4-5.el8                                                         epel      
-python-catkin_pkg-doc.noarch                                      0.5.2-1.el8                                                       epel      
+python-catkin_pkg-doc.noarch                                      1.0.0-1.el8                                                       epel      
 python-cbor2-doc.noarch                                           5.1.2-3.el8                                                       epel      
 python-celery-doc.noarch                                          4.3.0-5.el8                                                       epel      
 python-certbot-dns-cloudflare-doc.noarch                          1.22.0-1.el8                                                      epel      
@@ -13096,7 +13096,7 @@ python3-capturer.noarch                                           2.4-5.el8     
 python3-case.noarch                                               1.5.3-6.el8                                                       epel      
 python3-catkin-sphinx.noarch                                      0.3.1-1.el8                                                       epel      
 python3-catkin_lint.noarch                                        1.6.22-1.el8                                                      epel      
-python3-catkin_pkg.noarch                                         0.5.2-1.el8                                                       epel      
+python3-catkin_pkg.noarch                                         1.0.0-1.el8                                                       epel      
 python3-cbor2.x86_64                                              5.1.2-3.el8                                                       epel      
 python3-cccolutils.x86_64                                         1.5-11.el8                                                        epel      
 python3-cchardet.x86_64                                           2.1.6-2.el8                                                       epel      
@@ -14259,6 +14259,7 @@ python3-unidecode.noarch                                          1.2.0-5.el8   
 python3-unidiff.noarch                                            0.7.3-1.el8                                                       epel      
 python3-unipath.noarch                                            1.1-16.el8                                                        epel      
 python3-unittest2.noarch                                          1.1.0-16.el8                                                      AppStream 
+python3-untangle.noarch                                           1.2.1-2.el8                                                       epel      
 python3-uptime.x86_64                                             3.0.1-1.el8                                                       epel      
 python3-uritemplate.noarch                                        3.0.0-10.el8                                                      epel      
 python3-urlbuster.noarch                                          0.5.0-2.el8                                                       epel      
@@ -17468,6 +17469,11 @@ woff2-devel.x86_64                                                1.0.2-5.an8   
 wol.x86_64                                                        0.7.1-23.el8                                                      epel      
 words.noarch                                                      3.0-28.el8                                                        BaseOS    
 worker.x86_64                                                     4.4.0-1.el8                                                       epel      
+workrave.x86_64                                                   1.10.52-2.el8                                                     epel      
+workrave-cinnamon.x86_64                                          1.10.52-2.el8                                                     epel      
+workrave-gnome.x86_64                                             1.10.52-2.el8                                                     epel      
+workrave-mate.x86_64                                              1.10.52-2.el8                                                     epel      
+workrave-xfce.x86_64                                              1.10.52-2.el8                                                     epel      
 wpa_supplicant.x86_64                                             1:2.10-1.an8                                                      BaseOS    
 wpebackend-fdo.x86_64                                             1.10.0-3.an8                                                      AppStream 
 wpebackend-fdo-devel.x86_64                                       1.10.0-3.an8                                                      PowerTools
