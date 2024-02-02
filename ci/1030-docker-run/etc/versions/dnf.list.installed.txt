@@ -215,7 +215,7 @@ kiwi-tools.x86_64                           9.25.21-2.el8                       
 kmod.x86_64                                 25-19.0.2.an8                                   @BaseOS   
 kmod-libs.x86_64                            25-19.0.2.an8                                   @BaseOS   
 kpartx.x86_64                               0.8.4-37.0.1.an8                                @BaseOS   
-krb5-libs.x86_64                            1.18.2-25.0.1.an8                               @BaseOS   
+krb5-libs.x86_64                            1.18.2-26.0.1.an8                               @BaseOS   
 langpacks-core-en.noarch                    3.0-16.an8                                      @System   
 langpacks-core-font-en.noarch               3.0-16.an8                                      @System   
 langpacks-en.noarch                         3.0-16.an8                                      @System   
