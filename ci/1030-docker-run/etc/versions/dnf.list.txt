@@ -118,7 +118,7 @@ freetype.x86_64                                                   2.10.4-9.an8  
 fribidi.x86_64                                                    1.0.4-9.0.1.an8                                                   @AppStream
 fuse-common.x86_64                                                3.3.0-16.an8                                                      @BaseOS   
 fuse-libs.x86_64                                                  2.9.7-16.an8                                                      @BaseOS   
-fuse-overlayfs.x86_64                                             1.11-1.0.1.module+an8.8.0+11084+6fc06be3                          @AppStream
+fuse-overlayfs.x86_64                                             1.12-1.0.1.module+an8.9.0+11170+5c4084bd                          @AppStream
 fuse3.x86_64                                                      3.3.0-16.an8                                                      @BaseOS   
 fuse3-libs.x86_64                                                 3.3.0-16.an8                                                      @BaseOS   
 gawk.x86_64                                                       4.2.1-4.0.1.an8                                                   @System   
@@ -608,7 +608,7 @@ rpm-plugin-selinux.x86_64                                         4.14.3-26.0.1.
 rpm-plugin-systemd-inhibit.x86_64                                 4.14.3-26.0.1.an8                                                 @BaseOS   
 rpm-sign.x86_64                                                   4.14.3-26.0.1.an8                                                 @BaseOS   
 rsync.x86_64                                                      3.1.3-19.0.1.an8.1                                                @BaseOS   
-runc.x86_64                                                       1:1.1.4-1.0.1.module+an8.7.0+11023+66eacf17                       @AppStream
+runc.x86_64                                                       1:1.1.9-2.0.1.module+an8.9.0+11171+e228f280                       @AppStream
 rust-srpm-macros.noarch                                           5-2.0.1.an8                                                       @AppStream
 scl-utils.x86_64                                                  1:2.0.3-4.an8                                                     @AppStream
 screen.x86_64                                                     4.6.2-12.el8                                                      @epel     
@@ -8030,8 +8030,8 @@ liborc-devel.x86_64                                               1.7.10-1.el8  
 liborc1.x86_64                                                    1.7.10-1.el8                                                      epel      
 liborcus.x86_64                                                   0.16.1-8.an8                                                      AppStream 
 liborcus-doc.noarch                                               0.16.1-8.an8                                                      PowerTools
-liboscillator-disciplining.x86_64                                 3.6.1-1.el8                                                       epel      
-liboscillator-disciplining-devel.x86_64                           3.6.1-1.el8                                                       epel      
+liboscillator-disciplining.x86_64                                 3.6.2-1.el8                                                       epel      
+liboscillator-disciplining-devel.x86_64                           3.6.2-1.el8                                                       epel      
 libosinfo.x86_64                                                  1.9.0-3.an8                                                       AppStream 
 libotf.x86_64                                                     0.9.13-11.0.1.an8                                                 AppStream 
 libotf-doc.noarch                                                 0.9.13-11.0.1.an8                                                 PowerTools
@@ -10171,7 +10171,7 @@ oci-seccomp-bpf-hook.x86_64                                       1.2.8-1.0.1.mo
 ocl-icd.x86_64                                                    2.2.13-4.an8                                                      AppStream 
 ocl-icd-devel.x86_64                                              2.2.13-4.an8                                                      AppStream 
 ocproxy.x86_64                                                    1.60-1.20190728gitc98f06d.el8                                     epel      
-ocserv.x86_64                                                     1.2.2-1.el8                                                       epel      
+ocserv.x86_64                                                     1.2.4-1.el8                                                       epel      
 ocsinventory-agent.x86_64                                         2.9.3-1.el8                                                       epel      
 ocspd.x86_64                                                      1.9.0-16.el8                                                      epel      
 octave.x86_64                                                     6:5.2.0-1.el8                                                     epel      
@@ -10404,7 +10404,7 @@ osbuild-ostree.noarch                                             81-1.0.1.an8  
 osbuild-selinux.noarch                                            81-1.0.1.an8                                                      AppStream 
 oscap-anaconda-addon.noarch                                       1.2.1-12.0.1.an8                                                  AppStream 
 oscap-anaconda-addon-doc.noarch                                   1.2.1-12.0.1.an8                                                  PowerTools
-oscillatord.x86_64                                                3.6.1-1.el8                                                       epel      
+oscillatord.x86_64                                                3.6.2-1.el8                                                       epel      
 osinfo-db.noarch                                                  20220727-2.0.1.an8                                                AppStream 
 osinfo-db-extra.noarch                                            20220727-2.0.1.an8                                                AppStream 
 osinfo-db-tools.x86_64                                            1.9.0-1.an8                                                       AppStream 
@@ -14931,7 +14931,7 @@ rest.x86_64                                                       0.8.1-2.0.1.an
 rest-doc.noarch                                                   0.8.1-2.0.1.an8                                                   PowerTools
 restic.x86_64                                                     0.13.1-1.el8                                                      epel      
 retrace-server.noarch                                             1.24.2-2.el8                                                      epel      
-retsnoop.x86_64                                                   0.9.7-2.el8                                                       epel      
+retsnoop.x86_64                                                   0.9.8-1.el8                                                       epel      
 rhash.x86_64                                                      1.3.8-1.el8                                                       epel      
 rhash-devel.x86_64                                                1.3.8-1.el8                                                       epel      
 rhythmbox.x86_64                                                  3.4.2-8.0.1.an8                                                   AppStream 
