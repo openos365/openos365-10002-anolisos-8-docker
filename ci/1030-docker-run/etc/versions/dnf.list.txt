@@ -1108,7 +1108,7 @@ ansible-collection-community-general.noarch                       7.0.0-1.el8   
 ansible-collection-community-libvirt.noarch                       1.2.0-1.el8                                                       epel      
 ansible-collection-community-mysql.noarch                         3.5.1-1.el8                                                       epel      
 ansible-collection-community-rabbitmq.noarch                      1.2.3-1.el8                                                       epel      
-ansible-collection-containers-podman.noarch                       1.10.1-1.el8                                                      epel      
+ansible-collection-containers-podman.noarch                       1.12.0-5.el8                                                      epel      
 ansible-collection-microsoft-sql.noarch                           1.3.0-3.0.1.an8                                                   AppStream 
 ansible-collection-microsoft-sql-doc.noarch                       1.3.0-3.0.1.an8                                                   PowerTools
 ansible-collection-netbox-netbox.noarch                           3.7.1-1.el8                                                       epel      
@@ -12959,7 +12959,7 @@ python3-aiofiles.noarch                                           0.6.0-1.el8   
 python3-aiogqlc.noarch                                            1.0.4-1.el8                                                       epel      
 python3-aioguardian.noarch                                        1.0.2-1.el8                                                       epel      
 python3-aiohomekit.noarch                                         0.2.50-1.el8                                                      epel      
-python3-aiohttp.x86_64                                            3.7.4-1.el8                                                       epel      
+python3-aiohttp.x86_64                                            3.7.4-2.el8                                                       epel      
 python3-aiohttp-sse-client.noarch                                 0.2.0-1.el8                                                       epel      
 python3-aiohue.noarch                                             2.2.0-2.el8                                                       epel      
 python3-aioiotprov.noarch                                         0.0.7-1.el8                                                       epel      
@@ -16922,7 +16922,7 @@ tracker-miners-doc.noarch                                         3.1.2-4.0.1.an
 trademgen.x86_64                                                  1.00.4-1.el8                                                      epel      
 trademgen-devel.x86_64                                            1.00.4-1.el8                                                      epel      
 trademgen-doc.noarch                                              1.00.4-1.el8                                                      epel      
-trader.x86_64                                                     7.19-1.el8                                                        epel      
+trader.x86_64                                                     7.20-1.el8                                                        epel      
 trafficserver.x86_64                                              9.2.3-1.el8                                                       epel      
 trafficserver-devel.noarch                                        9.2.3-1.el8                                                       epel      
 trafficserver-perl.noarch                                         9.2.3-1.el8                                                       epel      
