@@ -1210,7 +1210,7 @@ artwiz-aleczapka-mints-strong-fonts.noarch                        1.3-25.el8    
 artwiz-aleczapka-nu-fonts.noarch                                  1.3-25.el8                                                        epel      
 artwiz-aleczapka-smoothansi-fonts.noarch                          1.3-25.el8                                                        epel      
 artwiz-aleczapka-snap-fonts.noarch                                1.3-25.el8                                                        epel      
-ascii.x86_64                                                      3.18-18.el8                                                       epel      
+ascii.x86_64                                                      3.19-1.el8                                                        epel      
 asciidoc-doc.noarch                                               9.1.0-3.an8                                                       AppStream 
 asciinema.noarch                                                  2.0.2-6.el8                                                       epel      
 asdcplib.x86_64                                                   2.10.38-1.el8                                                     epel      
@@ -3194,7 +3194,7 @@ fedfind.noarch                                                    5.0.1-1.el8   
 fedmsg.noarch                                                     1.1.7-1.el8                                                       epel      
 fedmsg-base.noarch                                                1.1.7-1.el8                                                       epel      
 fedmsg-doc.noarch                                                 1.1.7-1.el8                                                       epel      
-fedora-license-data.noarch                                        1.39-1.el8                                                        epel      
+fedora-license-data.noarch                                        1.40-1.el8                                                        epel      
 fedora-messaging.noarch                                           3.0.0-1.el8                                                       epel      
 fedora-messaging-doc.noarch                                       3.0.0-1.el8                                                       epel      
 fedora-packager.noarch                                            0.6.0.6-1.el8                                                     epel      
@@ -7429,8 +7429,8 @@ libeasyfc.x86_64                                                  0.14.0-1.0.1.a
 libeasyfc-doc.noarch                                              0.14.0-1.0.1.an8                                                  PowerTools
 libeasyfc-gobject.x86_64                                          0.14.0-1.0.1.an8                                                  AppStream 
 libeatmydata.x86_64                                               130-4.el8                                                         epel      
-libebml.x86_64                                                    1.3.7-2.el8                                                       epel      
-libebml-devel.x86_64                                              1.3.7-2.el8                                                       epel      
+libebml.x86_64                                                    1.3.9-2.el8                                                       epel      
+libebml-devel.x86_64                                              1.3.9-2.el8                                                       epel      
 libebur128.x86_64                                                 1.2.4-2.el8                                                       epel      
 libebur128-devel.x86_64                                           1.2.4-2.el8                                                       epel      
 libecap.x86_64                                                    1.0.1-2.0.1.module+an8.7.0+10994+8928ee11                         AppStream 
@@ -10188,6 +10188,9 @@ octomap-octovis-devel.x86_64                                      1.9.7-1.el8   
 oddjob.x86_64                                                     0.34.7-3.0.1.an8                                                  AppStream 
 oddjob-doc.noarch                                                 0.34.7-3.0.1.an8                                                  PowerTools
 oddjob-mkhomedir.x86_64                                           0.34.7-3.0.1.an8                                                  AppStream 
+ode.x86_64                                                        0.16.4-2.el8                                                      epel      
+ode-devel.x86_64                                                  0.16.4-2.el8                                                      epel      
+ode-double.x86_64                                                 0.16.4-2.el8                                                      epel      
 odfpy-doc.noarch                                                  1.4.1-1.el8                                                       epel      
 ofarc.x86_64                                                      1.0.8-1.el8                                                       epel      
 ofdns.x86_64                                                      1.0.8-1.el8                                                       epel      
