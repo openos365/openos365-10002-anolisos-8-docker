@@ -2024,10 +2024,10 @@ cgnslib.x86_64                                                    3.4.0-3.el8   
 cgnslib-devel.x86_64                                              3.4.0-3.el8                                                       epel      
 chan.x86_64                                                       0.0.4-3.0.1.an8                                                   AppStream 
 chan-doc.noarch                                                   0.0.4-3.0.1.an8                                                   PowerTools
-charliecloud.x86_64                                               0.32-2.el8                                                        epel      
-charliecloud-builder.x86_64                                       0.32-2.el8                                                        epel      
-charliecloud-doc.noarch                                           0.32-2.el8                                                        epel      
-charliecloud-test.x86_64                                          0.32-2.el8                                                        epel      
+charliecloud.x86_64                                               0.36-1.el8                                                        epel      
+charliecloud-builder.x86_64                                       0.36-1.el8                                                        epel      
+charliecloud-doc.noarch                                           0.36-1.el8                                                        epel      
+charliecloud-test.x86_64                                          0.36-1.el8                                                        epel      
 check.x86_64                                                      0.15.2-6.an8                                                      AppStream 
 check-devel.x86_64                                                0.15.2-6.an8                                                      AppStream 
 check_postgres.noarch                                             2.25.0-1.el8                                                      epel      
@@ -2036,10 +2036,10 @@ cheese.x86_64                                                     2:3.38.0-6.0.1
 cheese-doc.noarch                                                 2:3.38.0-6.0.1.an8                                                PowerTools
 cheese-libs.x86_64                                                2:3.38.0-6.0.1.an8                                                AppStream 
 chrome-gnome-shell.x86_64                                         10.1-7.an8                                                        AppStream 
-chromedriver.x86_64                                               121.0.6167.139-2.el8                                              epel      
-chromium.x86_64                                                   121.0.6167.139-2.el8                                              epel      
-chromium-common.x86_64                                            121.0.6167.139-2.el8                                              epel      
-chromium-headless.x86_64                                          121.0.6167.139-2.el8                                              epel      
+chromedriver.x86_64                                               121.0.6167.160-1.el8                                              epel      
+chromium.x86_64                                                   121.0.6167.160-1.el8                                              epel      
+chromium-common.x86_64                                            121.0.6167.160-1.el8                                              epel      
+chromium-headless.x86_64                                          121.0.6167.160-1.el8                                              epel      
 chrony.x86_64                                                     4.2-1.0.1.an8                                                     BaseOS    
 chrpath.x86_64                                                    0.16-7.0.1.an8                                                    BaseOS    
 chrpath-doc.noarch                                                0.16-7.0.1.an8                                                    PowerTools
@@ -9457,6 +9457,7 @@ mmlib.x86_64                                                      1.4.2-8.el8   
 mmlib-devel.x86_64                                                1.4.2-8.el8                                                       epel      
 mmtf-cpp-devel.x86_64                                             1.1.0-1.el8                                                       epel      
 mmtf-cpp-doc.noarch                                               1.1.0-1.el8                                                       epel      
+mmv.x86_64                                                        2.6-1.el8                                                         epel      
 moarvm.x86_64                                                     0.2019.07.1-2.el8                                                 epel      
 moarvm-devel.x86_64                                               0.2019.07.1-2.el8                                                 epel      
 mobile-broadband-provider-info.noarch                             20210805-1.0.1.an8                                                BaseOS    
@@ -10174,7 +10175,7 @@ oci-seccomp-bpf-hook.x86_64                                       1.2.8-1.0.1.mo
 ocl-icd.x86_64                                                    2.2.13-4.an8                                                      AppStream 
 ocl-icd-devel.x86_64                                              2.2.13-4.an8                                                      AppStream 
 ocproxy.x86_64                                                    1.60-1.20190728gitc98f06d.el8                                     epel      
-ocserv.x86_64                                                     1.2.4-1.el8                                                       epel      
+ocserv.x86_64                                                     1.2.4-2.el8                                                       epel      
 ocsinventory-agent.x86_64                                         2.9.3-1.el8                                                       epel      
 ocspd.x86_64                                                      1.9.0-16.el8                                                      epel      
 octave.x86_64                                                     6:5.2.0-1.el8                                                     epel      
