@@ -685,7 +685,7 @@ zlib.x86_64                                                       1.2.11-19.0.1.
 zlib-devel.x86_64                                                 1.2.11-19.0.1.an8_6                                               @BaseOS   
 zstd.x86_64                                                       1.5.1-2.0.2.an8                                                   @AppStream
 Available Packages
-3proxy.x86_64                                                     0.8.13-1.el8                                                      epel      
+3proxy.x86_64                                                     0.9.4-2.el8                                                       epel      
 6tunnel.x86_64                                                    0.13-1.el8                                                        epel      
 AMF-devel.noarch                                                  1.4.33-1.el8                                                      epel      
 AMF-samples.noarch                                                1.4.33-1.el8                                                      epel      
@@ -2576,7 +2576,7 @@ dfc.x86_64                                                        3.1.1-1.el8   
 dfuzzer.x86_64                                                    2.3-2.el8                                                         epel      
 dgit.noarch                                                       9.10-1.el8                                                        epel      
 dh-autoreconf.noarch                                              19-6.el8                                                          epel      
-dh-make.noarch                                                    2.202302-1.el8                                                    epel      
+dh-make.noarch                                                    2.202304-1.el8                                                    epel      
 dhcp-devel-doc.noarch                                             12:4.3.6-49.0.1.an8                                               PowerTools
 dhcp-relay.x86_64                                                 12:4.3.6-49.0.1.an8                                               BaseOS    
 dhcp-server.x86_64                                                12:4.3.6-49.0.1.an8                                               BaseOS    
@@ -15740,9 +15740,9 @@ smp_utils-libs.x86_64                                             0.99-5.el8    
 smtpping.x86_64                                                   1.1.4-1.el8                                                       epel      
 snakeyaml.noarch                                                  1.32-1.el8                                                        epel      
 snakeyaml-javadoc.noarch                                          1.32-1.el8                                                        epel      
-snap-confine.x86_64                                               2.61.1-0.el8                                                      epel      
-snapd.x86_64                                                      2.61.1-0.el8                                                      epel      
-snapd-devel.noarch                                                2.61.1-0.el8                                                      epel      
+snap-confine.x86_64                                               2.61.2-0.el8                                                      epel      
+snapd.x86_64                                                      2.61.2-0.el8                                                      epel      
+snapd-devel.noarch                                                2.61.2-0.el8                                                      epel      
 snapd-glib.x86_64                                                 1.58-1.el8                                                        epel      
 snapd-glib-devel.x86_64                                           1.58-1.el8                                                        epel      
 snapd-glib-tests.x86_64                                           1.58-1.el8                                                        epel      
@@ -15750,7 +15750,7 @@ snapd-qt.x86_64                                                   1.58-1.el8    
 snapd-qt-devel.x86_64                                             1.58-1.el8                                                        epel      
 snapd-qt-qml.x86_64                                               1.58-1.el8                                                        epel      
 snapd-qt-tests.x86_64                                             1.58-1.el8                                                        epel      
-snapd-selinux.noarch                                              2.61.1-0.el8                                                      epel      
+snapd-selinux.noarch                                              2.61.2-0.el8                                                      epel      
 snappy-devel.x86_64                                               1.1.8-3.0.1.an8                                                   AppStream 
 snappy-doc.noarch                                                 1.1.8-3.0.1.an8                                                   PowerTools
 snapraid.x86_64                                                   12.2-1.el8                                                        epel      
