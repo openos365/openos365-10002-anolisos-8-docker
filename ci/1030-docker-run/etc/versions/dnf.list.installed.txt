@@ -538,7 +538,7 @@ perl-utils.noarch                           5.26.3-422.0.1.an8                  
 perl-version.x86_64                         6:0.99.24-1.0.2.an8                             @AppStream
 pesign.x86_64                               0.112-27.0.1.an8                                @AppStream
 pigz.x86_64                                 2.4-4.el8                                       @BaseOS   
-pixman.x86_64                               0.40.0-5.an8                                    @BaseOS   
+pixman.x86_64                               0.40.0-6.an8                                    @AppStream
 pkgconf.x86_64                              1.4.2-1.el8                                     @BaseOS   
 pkgconf-m4.noarch                           1.4.2-1.el8                                     @BaseOS   
 pkgconf-pkg-config.x86_64                   1.4.2-1.el8                                     @BaseOS   
