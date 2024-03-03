@@ -14236,7 +14236,6 @@ python3-tld.noarch                                                0.11.10-1.el8 
 python3-tldextract.noarch                                         2.2.3-1.el8                                                       epel      
 python3-tmt.noarch                                                1.26.1-1.el8                                                      epel      
 python3-toml.noarch                                               0.10.0-3.el8                                                      epel      
-python3-tomli.noarch                                              1.2.3-2.el8                                                       epel      
 python3-tomli-w.noarch                                            0.4.0-1.el8                                                       epel      
 python3-toolz.noarch                                              0.10.0-3.el8                                                      epel      
 python3-tornado.x86_64                                            6.0.2-1.el8                                                       epel      
@@ -14396,7 +14395,7 @@ python3.11-pyasn1.noarch                                          0.5.1-1.el8   
 python3.11-pyasn1-epel-doc.noarch                                 0.5.1-1.el8                                                       epel      
 python3.11-pyasn1-modules.noarch                                  0.5.1-1.el8                                                       epel      
 python3.11-requests_ntlm.noarch                                   1.1.0-1.el8                                                       epel      
-python3.11-rpm.x86_64                                             4.14.3-26.1.el8                                                   epel      
+python3.11-rpm.x86_64                                             4.14.3-28.1.el8                                                   epel      
 python3.11-spnego.noarch                                          0.9.0-1.el8                                                       epel      
 python3.11-winrm.noarch                                           0.4.3-1.el8                                                       epel      
 python3.11-xmltodict.noarch                                       0.12.0-1.el8                                                      epel      
@@ -14514,7 +14513,7 @@ python39-pysocks.noarch                                           1.7.1-4.module
 python39-pyyaml.x86_64                                            5.4.1-1.module+an8.7.0+11003+1cb50aa2                             AppStream 
 python39-requests.noarch                                          2.25.0-2.module+an8.7.0+11003+1cb50aa2                            AppStream 
 python39-requests_ntlm.noarch                                     1.1.0-1.el8                                                       epel      
-python39-rpm.x86_64                                               4.14.3-26.1.el8                                                   epel      
+python39-rpm.x86_64                                               4.14.3-28.1.el8                                                   epel      
 python39-rpm-macros.noarch                                        3.9.16-2.0.2.module+an8.8.0+11064+8161fd07                        AppStream 
 python39-scipy.x86_64                                             1.5.4-3.module+an8.7.0+11003+1cb50aa2                             AppStream 
 python39-setuptools.noarch                                        50.3.2-4.module+an8.7.0+11003+1cb50aa2                            AppStream 
