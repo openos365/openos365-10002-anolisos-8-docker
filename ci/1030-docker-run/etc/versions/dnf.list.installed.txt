@@ -371,7 +371,7 @@ nss-softokn-freebl.x86_64                   3.90.0-3.0.1.an8                    
 nss-sysinit.x86_64                          3.90.0-3.0.1.an8                                @AppStream
 nss-tools.x86_64                            3.90.0-3.0.1.an8                                @AppStream
 nss-util.x86_64                             3.90.0-3.0.1.an8                                @AppStream
-ocaml-srpm-macros.noarch                    5-4.el8                                         @AppStream
+ocaml-srpm-macros.noarch                    5-4.0.1.an8                                     @AppStream
 openblas-srpm-macros.noarch                 2-2.0.1.an8                                     @AppStream
 openjpeg2.x86_64                            2.4.0-5.an8                                     @AppStream
 openldap.x86_64                             2.4.46-18.an8                                   @System   
