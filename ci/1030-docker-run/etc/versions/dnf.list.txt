@@ -1055,9 +1055,9 @@ amanda.x86_64                                                     3.5.1-13.el8  
 amanda-client.x86_64                                              3.5.1-13.el8                                                      AppStream 
 amanda-libs.x86_64                                                3.5.1-13.el8                                                      AppStream 
 amanda-server.x86_64                                              3.5.1-13.el8                                                      AppStream 
-amavis.noarch                                                     2.12.1-5.el8                                                      epel      
-amavis-doc.noarch                                                 2.12.1-5.el8                                                      epel      
-amavis-snmp.noarch                                                2.12.1-5.el8                                                      epel      
+amavis.noarch                                                     2.13.1-1.el8                                                      epel      
+amavis-doc.noarch                                                 2.13.1-1.el8                                                      epel      
+amavis-snmp.noarch                                                2.13.1-1.el8                                                      epel      
 amavisd-milter.x86_64                                             1.7.2-1.el8                                                       epel      
 amg4psblas-doc.noarch                                             1.0.0-2.el8                                                       epel      
 amg4psblas-mpich.x86_64                                           1.0.0-2.el8                                                       epel      
@@ -10733,6 +10733,7 @@ perl-Algorithm-C3.noarch                                          0.10-16.el8   
 perl-Algorithm-Combinatorics.x86_64                               0.27-17.el8                                                       epel      
 perl-Algorithm-Diff-doc.noarch                                    1.1903-9.0.1.an8                                                  PowerTools
 perl-Algorithm-Loops.noarch                                       1.032-2.el8                                                       epel      
+perl-Amavis.noarch                                                2.13.1-1.el8                                                      epel      
 perl-Any-Moose.noarch                                             0.27-14.el8                                                       epel      
 perl-Any-URI-Escape.noarch                                        0.01-19.el8                                                       epel      
 perl-AnyEvent.x86_64                                              7.14-6.0.1.an8                                                    AppStream 
