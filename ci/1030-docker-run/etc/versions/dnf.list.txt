@@ -2037,10 +2037,10 @@ cheese.x86_64                                                     2:3.38.0-6.0.1
 cheese-doc.noarch                                                 2:3.38.0-6.0.1.an8                                                PowerTools
 cheese-libs.x86_64                                                2:3.38.0-6.0.1.an8                                                AppStream 
 chrome-gnome-shell.x86_64                                         10.1-7.an8                                                        AppStream 
-chromedriver.x86_64                                               122.0.6261.111-1.el8                                              epel      
-chromium.x86_64                                                   122.0.6261.111-1.el8                                              epel      
-chromium-common.x86_64                                            122.0.6261.111-1.el8                                              epel      
-chromium-headless.x86_64                                          122.0.6261.111-1.el8                                              epel      
+chromedriver.x86_64                                               122.0.6261.128-1.el8                                              epel      
+chromium.x86_64                                                   122.0.6261.128-1.el8                                              epel      
+chromium-common.x86_64                                            122.0.6261.128-1.el8                                              epel      
+chromium-headless.x86_64                                          122.0.6261.128-1.el8                                              epel      
 chrony.x86_64                                                     4.2-1.0.1.an8                                                     BaseOS    
 chrpath.x86_64                                                    0.16-7.0.1.an8                                                    BaseOS    
 chrpath-doc.noarch                                                0.16-7.0.1.an8                                                    PowerTools
@@ -14022,6 +14022,7 @@ python3-pyxattr.x86_64                                            0.5.3-18.el8  
 python3-pyxdg.noarch                                              0.25-16.el8                                                       AppStream 
 python3-pyxs.noarch                                               0.4.1-9.el8                                                       epel      
 python3-pyzabbix.noarch                                           1.0.0-3.el8                                                       epel      
+python3-qgis.x86_64                                               3.18.3-3.el8                                                      epel      
 python3-qpid-proton.x86_64                                        0.37.0-1.el8                                                      epel      
 python3-qrcode.noarch                                             5.1-12.module+an8.8.0+11063+69aa3411                              AppStream 
 python3-qrcode-core.noarch                                        5.1-12.module+an8.8.0+11063+69aa3411                              AppStream 
@@ -14596,6 +14597,10 @@ qemu-kvm-hw-usbredir.x86_64                                       15:6.2.0-41.0.
 qemu-kvm-ui-opengl.x86_64                                         15:6.2.0-41.0.1.module+an8.9.0+11168+98c7cfc6.1                   AppStream 
 qemu-kvm-ui-spice.x86_64                                          15:6.2.0-41.0.1.module+an8.9.0+11168+98c7cfc6.1                   AppStream 
 qemu-user-static.x86_64                                           15:6.2.0-41.0.1.module+an8.9.0+11168+98c7cfc6.1                   AppStream 
+qgis.x86_64                                                       3.18.3-3.el8                                                      epel      
+qgis-devel.x86_64                                                 3.18.3-3.el8                                                      epel      
+qgis-grass.x86_64                                                 3.18.3-3.el8                                                      epel      
+qgis-server.x86_64                                                3.18.3-3.el8                                                      epel      
 qgnomeplatform.x86_64                                             0.7.1-3.0.2.an8                                                   AppStream 
 qgnomeplatform-doc.noarch                                         0.7.1-3.0.2.an8                                                   PowerTools
 qgpgme.x86_64                                                     1.13.1-11.0.1.an8                                                 AppStream 
